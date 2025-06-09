@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 - 👨‍💻 Started my programming journey during the pandemic and never looked back
 
 ## 🌟 Featured Project
-[**FURIA CHALENGE**](https://github.com/borboncio/FURIA-CHALENGE)  
+[**FURIA CHALENGE**](https://github.com/borboncio/FURIA_CHALENGE)  
 *My favorite repository—check it out for a taste of my coding style and creativity!*
 
 ## 🔧 Skills & Interests
