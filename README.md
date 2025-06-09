@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Victor!
 
-<!--
-**borboncio/borboncio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Aspiring Computer Engineer, currently studying and growing every day
+- 🧑‍💼 Open to new opportunities in tech (let's connect!)
+- 🐍 Python data wrangler & web developer, passionate about databases and web technologies
+- 🎮 Sports & esports enthusiast—love the thrill of both the real and virtual arenas!
+- 👨‍💻 Started my programming journey during the pandemic and never looked back
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Project
+[**FURIA CHALENGE**](https://github.com/borboncio/FURIA-CHALENGE)  
+*My favorite repository—check it out for a taste of my coding style and creativity!*
+
+## 🔧 Skills & Interests
+- Python scripting & data manipulation
+- Web development (front & back end)
+- Database design and management
+- Teamwork, learning, and continuous growth
+
+## 📫 Get in Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-victor--santos--borba-blue?logo=linkedin)](https://www.linkedin.com/in/victor-santos-borba-83527b149/)
+
